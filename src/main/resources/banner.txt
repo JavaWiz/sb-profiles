@@ -6,11 +6,10 @@
 `--'      `--'     `---'  `--'   `--' `--'  `----'   `------' '--'  '--'  `--`--' `--`--`--' |  |-'  `--'  `----'
                                                                                              `--'
 --------------------------------------------------------------------------
-Application Name : ${application.title}
-Application Version : ${application.version}
-Application Formatted Version : ${application.formatted-version}
-Spring Boot Version : ${spring-boot-version}
-Spring Boot Formatted Version : ${spring-boot.formatted-version}
+Application Name : ${application-name}
+Application Version : ${application-version}
+Application Description : ${application-description}
+Spring Boot Version : ${spring-boot.formatted-version}
 --------------------------------------------------------------------------
 ${AnsiColor.BRIGHT_RED}	 Spring boot banner customization example
 --------------------------------------------------------------------------
